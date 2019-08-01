@@ -1,0 +1,30 @@
+.SearchMovie-input {
+    border: none;
+    box-sizing: border-box;
+    padding: 15px;
+    width: 200px;
+    border-radius: 6px;
+    background-color: whitesmoke;
+    outline: none;
+    font-weight: 700;
+    font-size: 1rem;
+    animation: showForm 0.4s forwards;
+    height: 30px;
+    margin-bottom: 15px;
+  }
+
+  .SearchForm-submit {
+    position: absolute;
+    font-size: 1.4rem;
+    border: none;
+    height: 30px;
+    width: 46px;
+    border-radius: 0 10px 10px 0;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .search-icon {
+    width: 50%;
+    margin-top: 5px;
+  }
